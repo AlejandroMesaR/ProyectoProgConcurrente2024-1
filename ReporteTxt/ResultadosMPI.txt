@@ -1,0 +1,15 @@
+Tiempo de ejecución con 1 procesadores: 37.545775175094604
+Tiempo de ejecución con 2 procesadores: 39.12757420539856
+Tiempo de ejecución con 4 procesadores: 39.397098779678345
+Tiempo de ejecución con 8 procesadores: 38.99397015571594
+Tiempo de ejecución con 16 procesadores: 39.045820236206055
+Aceleración con 1 procesadores: 1.0
+Aceleración con 2 procesadores: 0.9595732916638182
+Aceleración con 4 procesadores: 0.9530086310431903
+Aceleración con 8 procesadores: 0.9628610532644352
+Aceleración con 16 procesadores: 0.9615824420632736
+Eficiencia con 1 procesadores: 1.0
+Eficiencia con 2 procesadores: 0.4797866458319091
+Eficiencia con 4 procesadores: 0.23825215776079758
+Eficiencia con 8 procesadores: 0.1203576316580544
+Eficiencia con 16 procesadores: 0.0600989026289546

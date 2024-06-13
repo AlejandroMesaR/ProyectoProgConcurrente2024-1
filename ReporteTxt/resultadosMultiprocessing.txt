@@ -1,0 +1,4 @@
+Tiempo de ejecución parcial con 8 procesadores: 7.181978940963745
+Aceleración con 8 procesadores: 1.0
+Eficiencia con 8 procesadores: 0.125
+Tiempo de ejecución en bloque con 8 procesadores: 7.241206645965576

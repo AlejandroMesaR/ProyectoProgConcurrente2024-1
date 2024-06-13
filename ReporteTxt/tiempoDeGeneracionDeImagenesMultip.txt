@@ -1,0 +1,2 @@
+Tiempo de generación de la imagen Dotplot: 0.4664943218231201
+Tiempo de generación de la imagen filtrada: 0.05871295928955078
