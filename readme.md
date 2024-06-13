@@ -10,7 +10,7 @@ Se implemento una versión secuencial, una versión paralela utilizando la bibli
 
 ### Prerequisitos
 
-El proyecto se desarrolló utilizando Python 3.11.5 y cuenta con soporte para computación paralela mediante las bibliotecas multiprocessing y mpi4py. Requiere que se especifiquen parámetros de entrada, como las secuencias de referencia y consulta en formato fasta(.fna), los cuales deben ser declarados en la línea de comandos al momento de la ejecución para calcular el dot-plot, tambien tener en cuenta el numeor de procesadores disponibles y la memoria RAM del PC que se va a ejecutar y tambien tener disponibilidad para usar Colab para ejecutar la implementacion en PyCuda.
+El proyecto se desarrolló utilizando Python 3.11.5 y cuenta con soporte para computación paralela mediante las bibliotecas multiprocessing y mpi4py. Requiere que se especifiquen parámetros de entrada, como las secuencias de referencia y consulta en formato fasta(.fna), los cuales deben ser declarados en la línea de comandos al momento de la ejecución para calcular el dot-plot, tambien tener en cuenta el numero de procesadores disponibles y la memoria RAM del PC que se va a ejecutar y tambien tener disponibilidad para usar Colab para ejecutar la implementacion en PyCuda.
 
 ### Instalacion
 
